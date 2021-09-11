@@ -1,3 +1,8 @@
+# Good Example
+![](https://www.bybt.com/zh-tw)
+- https://www.bybt.com/zh-tw
+
+
 # Archived-Funding-Fee-Data
 Archived Funding Fee json data of Binance perpetual future.
 Raw Data API:  
