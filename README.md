@@ -11,4 +11,4 @@ Raw Data API:
 
 
 ### To-do
-- Alert
+- Alert systems according to the Crypto-metadata.
